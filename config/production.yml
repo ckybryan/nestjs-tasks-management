@@ -1,2 +1,5 @@
+server:
+  origin: 'https://bryan.wtf'
+
 db:
   synchronize: false
